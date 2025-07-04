@@ -1,16 +1,19 @@
-## Hi there 👋
+# Pedro Alves | Python Back-End Developer
 
-<!--
-**pedro-alvesjr/pedro-alvesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+**Back-End**: Django | FastAPI | Django REST Framework  
+**Data**: PostgreSQL (PostGIS) | MySQL  
+**Tools**: Docker | Git | Swagger  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Top Projects  
+**[Makeup Class System](https://github.com/pedro-alvesjr/School-Class-Reposition-System)**  
+Django app deployed on Render that reduced school admin work by 30%  
+
+**[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
+Django REST API with PostGIS - 40% faster queries  
+
+## 📫 Reach Me  
+📧 pedromoraes.junior96@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-alves-302822321/)
