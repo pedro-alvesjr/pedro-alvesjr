@@ -12,7 +12,7 @@
 Django app deployed on Render that reduced school admin work by 30%  
 
 **[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
-Django REST API with PostGIS - 40% faster queries  
+Django REST API - faster queries  
 
 ## 📫 Reach Me  
 📧 pedromoraes.junior96@gmail.com  
