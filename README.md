@@ -3,7 +3,7 @@
 📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
 
 ## 🔧 Tech Stack  
-**Back-End**: Django | FastAPI | Django REST Framework  
+**Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication
 **Data**: PostgreSQL (PostGIS) | MySQL  
 **Tools**: Docker | Git | Swagger  
 
@@ -12,7 +12,7 @@
 Django app deployed on Render that reduced school admin work by 30%  
 
 **[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
-Django REST API - faster queries  
+Django REST Framework - REST API - faster queries  
 
 ## 📫 Reach Me  
 📧 pedromoraes.junior96@gmail.com  
