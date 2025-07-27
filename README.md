@@ -4,6 +4,7 @@
 
 ## 🔧 Tech Stack  
 **Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication   
+**Front-End**: HTML | CSS (Basic)   
 **Data**: PostgreSQL (PostGIS) | MySQL  
 **Tools**: Docker | Git | Swagger  
 
