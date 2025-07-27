@@ -3,7 +3,7 @@
 📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
 
 ## 🔧 Tech Stack  
-**Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication
+**Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication   
 **Data**: PostgreSQL (PostGIS) | MySQL  
 **Tools**: Docker | Git | Swagger  
 
