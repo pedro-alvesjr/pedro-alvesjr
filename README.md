@@ -8,9 +8,6 @@
 **Data**: PostgreSQL | MySQL  
 **Tools**: Docker | Git | Swagger  
 
-## 📊 Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-alvesjr&layout=compact&langs_count=4&hide=javascript,jupyter%20notebook,typescript,c%,c%2B%2B,java,php,ruby,rust,swift,kotlin,perl,scala,shell,powershell,dart,objective-c,matlab,groovy&theme=dracula)
-
 ## 🏆 Top Projects  
 **[Makeup Class System](https://github.com/pedro-alvesjr/School-Class-Reposition-System)**  
 Django app deployed on Render that reduced school admin work by 30%  
