@@ -1,4 +1,4 @@
-# Pedro Alves | Python Back-End Developer
+# Pedro Alves | Back-End Developer | Python | Go
 
 📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
 
