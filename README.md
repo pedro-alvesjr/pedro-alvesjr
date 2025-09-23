@@ -10,10 +10,10 @@
 
 ## 🏆 Top Projects  
 **[Makeup Class System](https://github.com/pedro-alvesjr/School-Class-Reposition-System)**  
-Django app deployed on Render that reduced school admin work by 30%  
+Django + PostgreSQL + Deployed on Render | Reduced administrative work by 30%
 
 **[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
-Django REST Framework - REST API - faster queries  
+Django REST Framework + PostgreSQL | Optimized queries for faster response
 
 ## 📫 Reach Me  
 📧 pedromoraes.junior96@gmail.com  
