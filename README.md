@@ -1,10 +1,10 @@
-# Pedro Alves | Back-End Developer | Python | Go
+# Pedro Alves | Back-End Developer | Python | TypeScript
 
 📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
 
 ## 🔧 Tech Stack  
 **Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication   
-**Front-End**: HTML | CSS (Basic)   
+**Front-End**: TypeScript | HTML | CSS 
 **Data**: PostgreSQL | MySQL  
 **Tools**: Docker | Git | Swagger  
 
