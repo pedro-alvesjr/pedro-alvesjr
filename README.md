@@ -1,6 +1,6 @@
-# Pedro Alves | Back-End Developer | Python | TypeScript
+# Pedro Alves | Full-Stack Developer | Python | TypeScript
 
-📍 Guarda, Portugal | 🎓 CS Student @ FAM | Seeking Internship/Junior Role  
+📍 Guarda, Portugal | 🎓 Full-Stack Developer @Ascend Marketing Solutions
 
 ## 🔧 Tech Stack  
 **Back-End**: Django | FastAPI | Django REST Framework | JWT Authentication   
