@@ -11,7 +11,7 @@
 ## 🏆 Top Projects  
 
 **Multi-Tenant CRM Platform (Private, Ascend Marketing Solutions)**  
-TypeScript | Next.js | Node.js | Supabase | PostgreSQL  
+TypeScript + Next.js + Node.js + PostgreSQL (Supabase)  
 - Sole developer responsible for the **full development lifecycle**  
 - Designed and implemented architecture, database schema, API routes, authentication, and deployment  
 - Multi-tenant system supporting **multiple client projects**  
@@ -19,7 +19,7 @@ TypeScript | Next.js | Node.js | Supabase | PostgreSQL
 **[Makeup Class System](https://github.com/pedro-alvesjr/School-Class-Reposition-System)**  
 Django + PostgreSQL + Deployed on Render  
 - Reduced administrative workload by 30% for a school  
-- Full-stack application with authentication, scheduling, and reporting  
+- Full-stack application with scheduling, and reporting  
 
 **[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
 Django REST Framework + PostgreSQL  
