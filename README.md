@@ -4,7 +4,7 @@
 
 ## 🔧 Tech Stack  
 **Back-End**: Node.js | Django | FastAPI | Django REST Framework | JWT Authentication  
-**Front-End**: TypeScript | Next.js | HTML | CSS 
+**Front-End**: TypeScript | Next.js | HTML | CSS   
 **Data**: PostgreSQL | MySQL | Supabase  
 **Tools**: Docker | Git | Swagger  
 
