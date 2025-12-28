@@ -9,7 +9,7 @@
 
 ## 🚀 Key Backend and Full-Stack Projects  
 
-### **Multi-Tenant CRM Platform** (Private, Ascend Marketing Solutions)  
+###**Multi-Tenant CRM Platform** (Private, Ascend Marketing Solutions)  
 Node.js + TypeScript + PostgreSQL + Next.js  
 - Architected and implemented a **scalable multi-tenant back-end and front-end** using schema isolation and role-based access control.  
 - Developed a **RESTful API** with 30+ endpoints for user management, client data, and reporting.  
