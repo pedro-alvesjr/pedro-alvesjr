@@ -1,30 +1,30 @@
-# Pedro Alves | Full-Stack Developer | TypeScript, Next.js, Node.js | Backend with Python (Django, FastAPI)
+# Pedro Alves | Backend Developer | Node.js • Python (Django, FastAPI) • TypeScript
+📍 Guarda, Portugal | 1.5+ years of experience building scalable backend systems | @Ascend Marketing Solutions
 
-📍 Guarda, Portugal | 💻 Full-Stack Developer @Ascend Marketing Solutions
+## 🛠️ Technical Skills  
+**Backend:** Node.js | Python (Django, FastAPI, DRF) | TypeScript | REST APIs | Authentication (JWT) | API Documentation  
+**Databases:** PostgreSQL | MySQL | Supabase | Database Design & Optimization  
+**DevOps & Tools:** Docker | Git | CI/CD Basics | Render | Vercel  
+**Frontend:** Next.js | React | HTML/CSS  
 
-## 🔧 Tech Stack  
-**Back-End**: Node.js | Django | FastAPI | Django REST Framework | JWT Authentication  
-**Front-End**: TypeScript | Next.js | HTML | CSS   
-**Data**: PostgreSQL | MySQL | Supabase  
-**Tools**: Docker | Git | Swagger  
+## 🚀 Key Backend and Full-Stack Projects  
 
-## 🏆 Top Projects  
-
-**Multi-Tenant CRM Platform (Private, Ascend Marketing Solutions)**  
-TypeScript + Next.js + Node.js + PostgreSQL (Supabase)  
-- Sole developer responsible for the **full development lifecycle**  
-- Designed and implemented architecture, database schema, API routes, authentication, and deployment  
-- Multi-tenant system supporting **multiple client projects**  
+### **Multi-Tenant CRM Platform** (Private, Ascend Marketing Solutions)  
+Node.js + TypeScript + PostgreSQL + Next.js  
+- Architected and implemented a **scalable multi-tenant back-end and front-end** using schema isolation and role-based access control.  
+- Developed a **RESTful API** with 30+ endpoints for user management, client data, and reporting.  
+- Designed **optimized PostgreSQL schemas** and queries to handle concurrent client data efficiently.  
+- Implemented **JWT authentication** and secure API routes.
 
 **[Makeup Class System](https://github.com/pedro-alvesjr/School-Class-Reposition-System)**  
 Django + PostgreSQL + Deployed on Render  
-- Reduced administrative workload by 30% for a school  
-- Full-stack application with scheduling, and reporting  
+- Reduced administrative workload by 30% for a school.  
+- Full-stack application with scheduling, and reporting.  
 
 **[Traffic API](https://github.com/pedro-alvesjr/traffic_monitor)**  
 Django REST Framework + PostgreSQL  
-- Optimized queries for faster responses  
-- Production-ready REST API for urban traffic monitoring and analytics  
+- Optimized queries for faster responses.  
+- Production-ready REST API for urban traffic monitoring and analytics.  
 
 ## 📫 Reach Me  
 📧 pedromoraes.junior96@gmail.com  
